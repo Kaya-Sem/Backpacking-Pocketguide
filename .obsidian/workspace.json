@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introduction/Backpacking Styles.md",
+                "file": "2. Clothing and Gear/2.2 Footwear/Footwear care.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d48825a529b33fbb",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction/Backpacking Styles.md",
+                "file": "2. Clothing and Gear/2.2 Footwear/Footwear care.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introduction/Backpacking Styles.md",
+                "file": "2. Clothing and Gear/2.2 Footwear/Footwear care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introduction/Backpacking Styles.md"
+                "file": "2. Clothing and Gear/2.2 Footwear/Footwear care.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "80f47cbfa8ad6b13",
   "lastOpenFiles": [
+    "1. Introduction/Backpacking Styles.md",
     "14. Expeditions and Long-Distance Hikes/Resupply Strategies.md",
     "14. Expeditions and Long-Distance Hikes/Planning Extended Trips.md",
     "14. Expeditions and Long-Distance Hikes/Mental and Physical Preparation.md"
