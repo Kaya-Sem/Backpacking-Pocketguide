@@ -10,7 +10,7 @@ tags:
 ---
 
 ### Why should I clean my shoes?
-Your footwear is built to withstand alot, like exploring muddy, gritty trails, but that doesn't mean it's a great idea to toss them in the closet and forget about them after a trip. Clean them faithfully and you'll enjoy many years on the trail together and reduce the need to replace them prematurely. 
+Your footwear is built to withstand a lot, like exploring muddy, gritty trails, but that doesn't mean it's a great idea to toss them in the closet and forget about them after a trip. Clean them faithfully and you'll enjoy many years on the trail together and reduce the need to replace them prematurely. 
 
 - When your boots or trailrunners flex, dirt, grit and sand creep deeper into their leather or fabric, grinding away like sandpaper.
 - Mud sucks moisture from leather as it dries, leaving your boots's leather less pliable and speeding up its aging process.
@@ -18,7 +18,7 @@ Your footwear is built to withstand alot, like exploring muddy, gritty trails, b
 ### What you'll need for cleaning your *hiking boots*
 
 - A boot-specific brush, an old vegetable brush or toothbrush
-- Specialized boot cleaner, saddle soap or a mild solution of dishwashing soap and water
+- Specialized boot cleaner, saddle soap or a mild solution of dish-washing soap and water
 
 ### Cleaning the Uppers
 
